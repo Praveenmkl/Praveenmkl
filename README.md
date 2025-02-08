@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  A Passionate UI/UX Designer and Frontend Developer</h3>
 
 ###
 
