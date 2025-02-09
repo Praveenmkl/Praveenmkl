@@ -9,16 +9,15 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on <b>Figma, HTML, CSS, JavaScript, React<b><br><br>💡 Always exploring new design trends and frontend technologies<br><br> 🔗 How to reach me 
-,Email: <a href="mailto:kalansooriya615@gmail.com">kalansooriya615@gmail.com</a>
+<p align="left">🔭 I’m currently working on <b>Figma, HTML, CSS, JavaScript, React<b><br><br>💡 Always exploring new design trends and frontend technologies<br><br> 🔗 How to reach me, Email: <a href="mailto:kalansooriya615@gmail.com">kalansooriya615@gmail.com</a>
  Behance: <a href="https://www.behance.net/praveenkalan" target="_blank">behance.net/praveenkalan</a>
 </p>
 
 ###
 
 <h3 align="left">Connect with me:</h3>
-<h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/praveen-kalansooriya)</h3>
+<a href="https://www.linkedin.com/in/praveen-kalansooriya" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ###
 
