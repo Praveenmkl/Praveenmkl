@@ -5,7 +5,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 A UI/UX Designer and Frontend Developer</h3>
+<h3 align="center" >👩‍💻 A UI/UX Designer and Frontend Developer</h3>
 
 ###
 
