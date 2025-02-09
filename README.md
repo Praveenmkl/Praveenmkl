@@ -12,7 +12,7 @@
 <p align="left">🔭 I’m currently working on <b>Figma, HTML, CSS, JavaScript, React<b><br><br>💡 Always exploring new design trends and frontend technologies<br><br> 🔗 How to reach me, Email: <a href="mailto:kalansooriya615@gmail.com">kalansooriya615@gmail.com</a>
  Behance: <a href="https://www.behance.net/praveenkalan" target="_blank">behance.net/praveenkalan</a>
 </p>
-<br>
+
 
 ###
 
@@ -31,7 +31,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/photoshop/photoshop-original.svg)" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
   <img width="12" />
