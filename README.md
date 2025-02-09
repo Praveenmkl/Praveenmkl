@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/praveen-kalansooriya" target="_blank">
-  <img src="https://static.vecteezy.com/system/resources/previews/018/910/721/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" width="30px"/>
+  <img src="https://megablogging.org/wp-content/uploads/2022/06/linkedin.jpg/>
 </a>
 
 
