@@ -17,6 +17,7 @@
 ###
 
 <h3 align="left">Connect with me:</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/praveen-kalansooriya)
 
 ###
 
