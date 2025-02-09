@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/praveen-kalansooriya" target="_blank">
-<img src="https://github.com/Praveenmkl/demo/blob/main/Untitled-1.png?raw=true" width="500px" height="500px">
+<img src="https://github.com/Praveenmkl/demo/blob/main/Untitled-1.png?raw=true" width="50px" height="50px">
 </a>
 
 
