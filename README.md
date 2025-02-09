@@ -16,7 +16,7 @@
 ###
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/praveen-kalansooriya" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="[https://www.linkedin.com/in/praveen-kalansooriya" target="_blank](https://github.com/gilbarbara/logos/blob/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/linkedin-icon.svg)">
 </a>
 
 ###
