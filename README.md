@@ -16,9 +16,7 @@
 ###
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/praveen-kalansooriya" target="_blank">
-  <img src="https://megablogging.org/wp-content/uploads/2022/06/linkedin.jpg/>
-</a>
+
 
 
 
