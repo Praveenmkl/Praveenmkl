@@ -16,7 +16,11 @@
 ###
 
 <h3 align="left">Connect with me:</h3>
-
+<a href="https://www.linkedin.com/in/praveen-kalansooriya" target="_blank">
+  <a href="https://www.linkedin.com/in/praveen-kalansooriya" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" width="30px"/>
+</a>
+</a>
 
 
 
