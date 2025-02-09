@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Figma,HTML,CSS,JavaScript,React<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">🔭 I’m currently working on <b>Figma,HTML,CSS,JavaScript,React<b><br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
