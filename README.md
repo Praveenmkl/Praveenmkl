@@ -10,7 +10,8 @@
 ###
 
 <p align="left">🔭 I’m currently working on <b>Figma, HTML, CSS, JavaScript, React<b><br><br>💡 Always exploring new design trends and frontend technologies<br><br>📬 How to reach me 📧 Email: [kalansooriya615@gmail.com](mailto:kalansooriya615@gmail.com)
-, < a href="www.behance.net/praveenkalan">www.behance.net/praveenkalan</a></p>
+, < a href="www.behance.net/praveenkalan">www.behance.net/praveenkalan</a>📧 Email: [kalansooriya615@gmail.com](mailto:kalansooriya615@gmail.com)
+</p>
 
 ###
 
