@@ -1,42 +1,53 @@
-<h1 align="center">Hi👋, I'm Praveen Kalansooriya</h1>
+<h1 align="center">Hi 👋, I'm Praveen Kalansooriya</h1>
 
-<h3 align="center" >👩‍💻 A UI/UX Designer and Frontend Developer</h3>
+<h3 align="center">Software Engineering Undergraduate | Full-Stack Developer | UI/UX Enthusiast</h3>
 
-<p align="left">🔭 I’m currently working on <b>Figma, HTML, CSS, JavaScript, React<b><br><br>💡 Always exploring new design trends and frontend technologies<br><br> 🔗 How to reach me, Email: <a href="mailto:kalansooriya615@gmail.com">kalansooriya615@gmail.com</a>
- Behance: <a href="https://www.behance.net/praveenkalan" target="_blank">behance.net/praveenkalan</a>
+<p align="center">
+  Passionate about building modern, user-focused web applications with clean and scalable solutions.
 </p>
 
+---
 
-###
+### 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/praveen-kalansooriya" target="_blank">
-<img src="https://github.com/Praveenmkl/demo/blob/main/Untitled-1.png?raw=true" width="40px" height="40px">
-</a>
+* 🎓 Software Engineering Undergraduate at University of Kelaniya
+* 💻 Full-Stack Developer focused on React.js, Next.js, Node.js, Express.js, and MongoDB
+* 🎨 UI/UX Enthusiast with experience in Figma, wireframing, and prototyping
+* 🚀 Currently seeking a Software Engineering Internship
 
-
-
-###
-
-<h3 align="left">Language and tools</h3>
-
+### 🛠️ Technologies
 
 <div align="left">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+<img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//figma/figma-original.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//photoshop/photoshop-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 
 </div>
 
-###
+### 📫 Connect With Me
+
+<a href="https://portfolio26-flax.vercel.app/" target="_blank">Portfolio</a> • <a href="https://medium.com/@kalansooriya615" target="_blank">Medium</a> • <a href="https://www.linkedin.com/in/praveen-kalansooriya/" target="_blank">LinkedIn</a> • <a href="https://www.behance.net/praveenkalan" target="_blank">Behance</a> • <a href="https://github.com/Praveenmkl" target="_blank">GitHub</a> • <a href="mailto:kalansooriya615@gmail.com">Email</a>
+
