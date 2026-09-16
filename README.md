@@ -44,13 +44,10 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://portfolio26-flax.vercel.app/" target="_blank">
-     </a>
-  <a href="https://medium.com/@kalansooriya615" target="_blank">
-      <a href="https://www.linkedin.com/in/praveen-kalansooriya-219198303/" target="_blank">
-     </a>
-  <a href="mailto:kalansooriya615@gmail.com">
-     </a>
+  <a href="https://portfolio26-flax.vercel.app/" target="_blank">Portfolio</a> •
+  <a href="https://medium.com/@kalansooriya615" target="_blank">Medium</a> •
+  <a href="https://www.linkedin.com/in/praveen-kalansooriya-219198303/" target="_blank">LinkedIn</a> •
+  <a href="mailto:kalansooriya615@gmail.com">Email</a>
 </p>
 
 
