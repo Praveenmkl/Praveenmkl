@@ -10,13 +10,14 @@
 
 ### 👨‍💻 About Me
 
+
 * Software Engineering Undergraduate at the University of Kelaniya
 * Full-Stack Developer focused on building modern web applications
 * UI/UX Enthusiast with experience in Figma, wireframing, and prototyping
 * Currently seeking a Software Engineering Internship
+  
 
 ### 🛠️ Technologies & Tools
-
 
 
 <p align="left">
@@ -42,6 +43,7 @@
 
 
 ### 🔗 Connect With Me
+
 
 <p align="left">
   <a href="https://portfolio26-flax.vercel.app/" target="_blank">Portfolio</a> •
