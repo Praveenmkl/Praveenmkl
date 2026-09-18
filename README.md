@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Praveen Kalansooriya</h1>
 
 <h3 align="center">Software Engineering Undergraduate | Full-Stack Developer | UI/UX Enthusiast</h3>
@@ -22,25 +24,17 @@
 ### 🔗 Connect With Me
 
 
-### 🔗 Connect With Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/praveen-kalansooriya-219198303/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-         width="42" height="42" alt="LinkedIn" />
+         alt="LinkedIn"
+         width="40"
+         height="40"/>
   </a>
-  &nbsp;&nbsp;
-  
- 
-  <a href="https://medium.com/@kalansooriya615" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/medium/medium-original.svg"
-         width="42" height="42" alt="Medium" />
-  </a>
-  &nbsp;&nbsp;
-  
+
   <a href="mailto:kalansooriya615@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
-         width="42" height="42" alt="Email" />
+         width="36" alt="Email" />
   </a>
 </p>
 
