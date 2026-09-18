@@ -15,6 +15,27 @@
 * Full-Stack Developer focused on building modern web applications
 * UI/UX Enthusiast with experience in Figma, wireframing, and prototyping
 * Currently seeking a Software Engineering Internship
+
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  </a>
+
+  <a href="https://medium.com/@yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" height="40" alt="Medium" />
+  </a>
+
+  <a href="mailto:your@email.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email" />
+  </a>
+</p>
   
 
 ### 🛠️ Technologies & Tools
@@ -46,14 +67,8 @@
 
 
 
-### 🔗 Connect With Me
 
 
-<p align="left">
-  <a href="https://portfolio26-flax.vercel.app/" target="_blank">Portfolio</a> •
-  <a href="https://medium.com/@kalansooriya615" target="_blank">Medium</a> •
-  <a href="https://www.linkedin.com/in/praveen-kalansooriya-219198303/" target="_blank">LinkedIn</a> •
-  <a href="mailto:kalansooriya615@gmail.com">Email</a>
-</p>
+
 
 
