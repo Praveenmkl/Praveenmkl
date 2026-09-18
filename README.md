@@ -22,20 +22,25 @@
 ### 🔗 Connect With Me
 
 
+### 🔗 Connect With Me
+
 <p align="left">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/praveen-kalansooriya-219198303/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin" height="40" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+         width="42" height="42" alt="LinkedIn" />
   </a>
-
-  <!-- Medium -->
+  &nbsp;&nbsp;
+  
+ 
   <a href="https://medium.com/@kalansooriya615" target="_blank">
-    <img src="https://cdn.simpleicons.org/medium" height="40" alt="Medium" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/medium/medium-original.svg"
+         width="42" height="42" alt="Medium" />
   </a>
-
-  <!-- Gmail -->
+  &nbsp;&nbsp;
+  
   <a href="mailto:kalansooriya615@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" height="40" alt="Gmail" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
+         width="42" height="42" alt="Email" />
   </a>
 </p>
 
