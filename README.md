@@ -28,22 +28,22 @@
   <a href="https://www.linkedin.com/in/praveen-kalansooriya-219198303/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"
+      width="40"
       height="40"
       alt="LinkedIn"
     />
-  </a>
-
-  &nbsp;&nbsp;
-
+  </a>&nbsp;&nbsp;
   <a href="mailto:kalansooriya615@gmail.com">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
+      width="40"
       height="40"
       alt="Email"
     />
   </a>
 </p>
-  
+
+
 
 ### 🛠️ Technologies & Tools
 
